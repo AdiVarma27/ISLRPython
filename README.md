@@ -1,2 +1,2 @@
 # ISLRPython
-Implementation of ISLR labs, exercises in Python
+Implementation of ISLR exercises in Python
